@@ -1,0 +1,2 @@
+# BitBattle
+Card Database
